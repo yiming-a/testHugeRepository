@@ -10,9 +10,9 @@ I am yiming
 ohhhhhh
 that is ok
 
-[tupian](\images\58.jpg)
+![tupian](\images\58.jpg)
 
-[tupian](images\58.jpg)
+![tupian](images\58.jpg)
 
-[tupian](58.jpg)
+![tupian](58.jpg)
 
